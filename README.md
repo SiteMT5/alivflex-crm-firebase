@@ -1,1 +1,0 @@
-# alivflex-crm-firebase
